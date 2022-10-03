@@ -8,5 +8,3 @@ You can find the dataset that was used in this project at this [link](https://ww
 
 ### Resources
 To get a deeper concenptual understanding of the process and all the functions, you can visit this article titled ["Practical Explanation of NLP for Fake News Detection"](https://www.universaltimes.org/article/practical-explanation-of-natural-language-processing-for-fake-news-amp-misinformation-detection).
-
-For a quick walkthrough of the technical code, you can watch this video titled ["2-Minute Tutorial: Fake News Detection Algorithm"](https://www.youtube.com/watch?v=mrXVfFv-Ue8).
