@@ -7,4 +7,4 @@ There are comments to explain each line of code, and the accuracy results for th
 You can find the dataset that was used in this project at this [link](https://www.kaggle.com/nopdev/real-and-fake-news-dataset) , which takes you to a Kaggle webpage. This was an already-built dataset by someone else.
 
 ### Resources
-To get a deeper concenptual understanding of the process and all the functions, you can visit this article titled ["Practical Explanation of NLP for Fake News Detection"](https://www.universaltimes.org/article/practical-explanation-of-natural-language-processing-for-fake-news-amp-misinformation-detection).
+To get a deeper concenptual understanding of the process and all the functions, you can visit this article titled [Technical Explanation of NLP for Fake News Detection](https://www.universaltimes.org/article/technical-explanation-of-nlp-for-fake-news-detection).
